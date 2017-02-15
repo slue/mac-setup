@@ -35,72 +35,18 @@ If this is a new computer, there are a couple tweaks you would like to make to t
 
 ### Menubar
 
-* Remove the display and bluetooth icons
 * Change battery to show percentage symbols
 
 ### Spotlight
 
-* Uncheck fonts, images, files etc.
-* Uncheck the keyboard shortcuts as we'll be replacing them with Alfred.
+* Uncheck fonts, images
+* Uncheck the keyboard shortcut for `show finder-search` in spotlight, because we need it for switching keyboard languages
 
-### Accounts
+### Keyboard Inputs
 
-* Add an iCloud account and sync Calendar, Find my mac, Contacts etc.
-
-### Write to NTFS on OSX Yosemite and El Capitan
-
-#### Install Homebrew and Homebrew Cask
-
-* Instructions [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html)!
-
-#### Update Homebrew formulae:
-
-```
-$ brew update
-```
-
-#### Install osxfuse
-
-* If you are on OSX 10.11 \(El Capitan\), install the \(3.x.x\) from [https://github.com/osxfuse/osxfuse/releases](https://github.com/osxfuse/osxfuse/releases).
-
-```
-$ brew cask install osxfuse
-```
-
-#### Install ntfs-3g
-
-```
-$ brew install homebrew/fuse/ntfs-3g
-```
-
-#### If you are on OSX 10.11 \(El Capitan\), temporary disable System Integrity Protection.
-
-* **reboot** and hold CMD+R to get in recovery mode
-* Open the terminal and type
-
-```
-$ csrutil disable
-```
-
-* **reboot** normally
-
-#### Create a symlink for mount\_ntfs
-
-```
-$ sudo mv /sbin/mount_ntfs /sbin/mount_ntfs.original
-$ sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
-```
-
-#### If you are on OSX 10.11 \(El Capitan\), re-enable System Integrity Protection.
-
-* **reboot** and hold CMD+R to get in recovery mode
-* Open the terminal and type
-
-```
-$ csrutil enable
-```
-
-* **reboot** normally
+* add new input language `us-english`
+* configure shortcut for switching with `command-option-space`
+* drag language-chooser in touch bar
 
 
 
