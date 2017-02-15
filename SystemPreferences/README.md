@@ -25,11 +25,13 @@ If this is a new computer, there are a couple tweaks you would like to make to t
 ### Finder
 
 * Toolbar
-  * Update to add path, new folder and delete
+  * Uncheck all unnecessary objects in the left view pane
 * Sidebar
   * Add home and code directory
   * Remove shared and tags
   * New finder window to open in the home directory
+* General
+  * show file suffixes
 
 ### Menubar
 
