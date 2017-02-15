@@ -7,7 +7,6 @@
   * [Usage](Homebrew/Usage.md)
   * [Cask](Homebrew/Cask.md)
 * [Git](Git/README.md)
-  * [Git ignore](Git/gitignore.md)
 * [Vim](Vim/README.md)
 * [Sublime Text](SublimeText/README.md)
   * [Preferences](SublimeText/Preferences.md)
