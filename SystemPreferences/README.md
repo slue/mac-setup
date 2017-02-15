@@ -15,10 +15,7 @@ If this is a new computer, there are a couple tweaks you would like to make to t
 
 * Point & Click
   * Enable Tap to Click with one finger
-  * Change secondary click to right corner
-  * Uncheck three finger drag
-* Scroll and Zoom
-  * Uncheck all apart from Zoom in and out
+  * Check three finger drag \(Bedienungshilfen\)
 
 ### Dock
 
