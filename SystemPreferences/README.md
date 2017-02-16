@@ -52,11 +52,7 @@ If this is a new computer, there are a couple tweaks you would like to make to t
 
 * set tab-switching shortcuts for safari, chrome, terminal, etc. to be alike. `System Preferences -> keyboard -> shortcuts` create shortcuts for apps: `command-option-j` for last tab and `command-option-k` for next tab
 
-### SSH Configuration
 
-* set ssh keys under `~/.ssh`
-* set ssh-config under `~/.ssh/config`
-* do not forget used Identify Files in config - Put them under
 
 
 
