@@ -19,8 +19,6 @@
   * [Numpy-Scipy](Python/numpy.md)
   * [Ipython](Python/ipython.md)
 * [MySql](MySql/README.md)
-* [Ruby](Ruby/README.md)
-  * [RubyGems](Ruby/RubyGems.md)
 * [Node.js](Node.js/README.md)
 * [Go](Go/README.md)
 * [Heroku](Heroku/README.md)
@@ -32,4 +30,5 @@
   * [Settings](Apps/Settings.md)
 * [Security](Security/README.md)
 * SSH Configuration
+* [Atom Editor](atom-editor.md)
 
