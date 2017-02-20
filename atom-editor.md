@@ -5,8 +5,8 @@ Atom is in some ways preferable to sublime, mostly because of its sidebar stylin
 ### Install packages
 
 * platform-ide-terminal
-* 
-### Settings
+* merge-conflicts
+* ### Settings
 
 Increase Lineheight: Add to stylesheet
 
