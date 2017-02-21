@@ -33,6 +33,7 @@ $ brew cask install google-hangouts
 $ brew cask install sublime-text
 $ brew cask install vlc
 $ brew cask install slack
+$ brew cask install spectacle
 $ brew cask install spotify
 $ brew cask install gitkraken
 ```
