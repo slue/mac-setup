@@ -33,6 +33,6 @@
 * SSH Configuration
 * [Atom Editor](atom-editor.md)
 * [Useful Apps](useful-apps.md)
-* [PHP](php.md)
+* [Apache & PHP](php.md)
 * [Mongo DB](mongo-db.md)
 
