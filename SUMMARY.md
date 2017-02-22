@@ -7,6 +7,7 @@
 * [Homebrew](Homebrew/README.md)
   * [Usage](Homebrew/Usage.md)
   * [Cask](Homebrew/Cask.md)
+  * [Services](Homebrew/services.md)
 * [Git](Git/README.md)
 * [Vim](Vim/README.md)
 * [Sublime Text](SublimeText/README.md)
