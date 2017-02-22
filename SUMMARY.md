@@ -32,4 +32,5 @@
 * [Security](Security/README.md)
 * SSH Configuration
 * [Atom Editor](atom-editor.md)
+* [Useful Apps](useful-apps.md)
 
