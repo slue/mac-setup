@@ -70,7 +70,18 @@ Konfiguriere `/etc/apache2/httpd.conf`:
   * mod\_proxy\_\_\_fcgi
   * php5\_module
 * User auf selben von php 7 ändern
-* Uncomment `Include /private/etc/apache2/extra/httpd-vhosts.conf`
-* 
+
+### vHosts
+
+Instead of the default configuration to put all vHosts in a single File `httpd-vhost.conf`, configure Apache to use a folder for vHosts:
+
+In `/etc/apache2/httpd.conf` append the 3rd line:
+
+```
+# Virtual hosts
+#Include /private/etc/apache2/extra/httpd-vhosts.conf
+Include /private/etc/apache2/vhosts/*.conf
+```
+
 
 

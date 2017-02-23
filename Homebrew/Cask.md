@@ -37,6 +37,8 @@ $ brew cask install skitch
 $ brew cask install spectacle
 $ brew cask install spotify
 $ brew cask install gitkraken
+$ brew install yarn
+$ brew install composer
 ```
 
 
