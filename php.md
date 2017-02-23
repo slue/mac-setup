@@ -55,9 +55,6 @@ In der Datei \`/usr/local/etc/php/7.0/php-fpm.d/www.conf\` folgende Zeilen ände
 
 * * wird zu: \`user = \[DEIN\_USER\]\`
 
-  
-
-
 Dann Apache und PHP-FPM neu starten und los gehts …
 
 ### Set Interpreter in phpStorm
@@ -70,9 +67,10 @@ Konfiguriere `/etc/apache2/httpd.conf`:
 
 * Aktiviere Module:
   * mod\_proxy
-  * mod\_proxy_\__fcgi
+  * mod\_proxy\_\_\_fcgi
   * php5\_module
 * User auf selben von php 7 ändern
-
+* Uncomment `Include /private/etc/apache2/extra/httpd-vhosts.conf`
+* 
 
 
