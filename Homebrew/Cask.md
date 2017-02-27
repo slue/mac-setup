@@ -31,6 +31,7 @@ $ brew cask install google-chrome
 $ brew cask install google-drive
 $ brew cask install google-hangouts
 $ brew cask install paw
+$ brew cask install postman
 $ brew cask install sublime-text
 $ brew cask install vlc
 $ brew cask install slack
