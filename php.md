@@ -69,6 +69,7 @@ Konfiguriere `/etc/apache2/httpd.conf`:
   * mod\_proxy
   * mod\_proxy\_\_\_fcgi
   * php5\_module
+  * rewrite\_module
 * User auf selben von php 7 ändern
 
 ### vHosts
