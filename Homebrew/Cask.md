@@ -30,6 +30,7 @@ $ brew cask install caffeine
 $ brew cask install google-chrome
 $ brew cask install google-drive
 $ brew cask install google-hangouts
+$ brew cask install ngrok
 $ brew cask install paw
 $ brew cask install postman
 $ brew cask install sublime-text
