@@ -27,6 +27,7 @@ I'll now cover installation of the apps that I have mentioned in the apps sectio
 
 ```
 $ brew cask install caffeine
+$ brew cask install evernote
 $ brew cask install google-chrome
 $ brew cask install google-drive
 $ brew cask install google-hangouts
