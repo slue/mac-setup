@@ -43,6 +43,7 @@ $ brew cask install spotify
 $ brew cask install gitkraken
 $ brew install yarn
 $ brew install composer
+$ brew install sketch && /Applications/Sketch.app/Contents/Resources/sketchtool/install.sh
 ```
 
 
