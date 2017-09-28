@@ -30,7 +30,7 @@
   * [Octave](Apps/Octave.md)
   * [Settings](Apps/Settings.md)
 * [Security](Security/README.md)
-* SSH Configuration
+* [SSH Configuration](ssh-configuration.md)
 * [Atom Editor](atom-editor.md)
 * [Useful Apps](useful-apps.md)
 * [Apache & PHP](php.md)

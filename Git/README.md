@@ -38,5 +38,9 @@ $ git config --global merge.tool sublime
 $ git mergetool -y
 ```
 
+### Configure BASH for Git
+
+https://github.com/slue/git-aware-prompt
+
 
 
