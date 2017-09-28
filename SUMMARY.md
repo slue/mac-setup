@@ -29,6 +29,7 @@
 * [Apps](Apps/README.md)
   * [Octave](Apps/Octave.md)
   * [Settings](Apps/Settings.md)
+  * [Mail Settings with Gmail](Apps/mail-settings-with-gmail.md)
 * [Security](Security/README.md)
 * [SSH Configuration](ssh-configuration.md)
 * [Atom Editor](atom-editor.md)
