@@ -1,29 +1,39 @@
 # PHP 7
 
 ```
-$ brew tap homebrew/dupes
-$ brew tap homebrew/versions
-$ brew tap homebrew/homebrew-php
-$ brew install php70
+brew tap homebrew/dupes
+brew tap homebrew/versions
+brew tap homebrew/homebrew-php
+brew install php71
 ```
 
 Check if php-fpm is running:
 
 ```
-$ ps aux | grep php-fpm
+ps aux | grep php-fpm
 ```
 
 Restart php 7.0
 
 ```
-$ brew services restart php70
+brew services restart php71
 ```
 
-### MCrypt
+### XDebug
+
+To install XDebug:
 
 ```
-$ brew install php70-mcrypt
+brew install php71-xdebug
 ```
+
+Then open the `/usr/local/etc/php/7.1/conf.d/ext-debug.ini` and append the following line:
+
+```
+xdebug.remote_enable=1
+```
+
+After that restart php \(see above\)
 
 ### PHP 7 konfigurieren
 
