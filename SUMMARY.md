@@ -16,6 +16,7 @@
   * [Sublime Linter](SublimeText/SublimeLinter.md)
 * [Python](Python/README.md)
   * [Pip](Python/pip.md)
+  * [Jupyter Notebooks](Python/jupyter-notebooks.md)
   * [Virtualenv](Python/virtualenv.md)
   * [Numpy-Scipy](Python/numpy.md)
   * [Ipython](Python/ipython.md)
